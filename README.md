@@ -27,7 +27,32 @@ sales-performance-analysis/
 ```
 
 ## 📈 Key Insights
-_Coming soon..._
+
+### Overall Performance
+- **Total Revenue**: $2.3M over 4 years (2014-2017)
+- **Total Profit**: $286K with 12.5% profit margin
+- **Total Orders**: 9,994 transactions
+
+### Category Analysis
+- **Technology** leads in sales ($836K) but **Office Supplies** has most orders
+- **Furniture** shows lowest profit margin due to high discounts
+
+### Regional Performance
+- **West** region generates highest revenue
+- **East** region has most consistent growth
+
+### Discount Strategy
+- Discounts above 30% significantly reduce profitability
+- Optimal discount range: 10-20% for balanced sales and profit
+
+### Seasonal Trends
+- Strong Q4 performance (holiday season)
+- Year-over-year growth across all categories
+
+### Customer Insights
+- **Consumer** segment: Highest revenue contributor
+- **Corporate** segment: Best profit margins
+- **Home Office**: Smallest but growing segment
 
 ## 📊 Dashboard
 _Link to Tableau Public dashboard will be added here_
